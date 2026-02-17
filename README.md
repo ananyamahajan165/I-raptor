@@ -19,7 +19,6 @@ I-Raptor is a frontend web project built using HTML and CSS. It is designed to p
 - HTML5
 - CSS3
 
----
 
 ## 📂 Project Structure
 
